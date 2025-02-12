@@ -11,3 +11,5 @@ Welcome to the Machine Learning Repository! 🚀 This repository contains a coll
 Whether starting your ML journey or looking for reference implementations, this repo is your go-to resource. Feel free to explore, contribute, and improve the code!
 
 ⭐ Star this repo if you find it helpful! 😊
+
+1. How to Train Your First ML Model in Python? - https://www.nextaithrill.com/post/how-to-train-your-first-ml-model-in-python
